@@ -37,7 +37,7 @@ runs:
           echo "Timeout or API not reachable. Continuing to next step."
         fi
 
-    - uses: step-security/setup-crate@v1.4.0
+    - uses: step-security/setup-crate@417f9aa08f096f4d2e349780794fa5cbba3407f8 #v1.4.0
       with:
         repo: casey/just
         version: ${{ inputs.just-version }}
