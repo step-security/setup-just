@@ -1,3 +1,5 @@
+[![StepSecurity Maintained Action](https://raw.githubusercontent.com/step-security/maintained-actions-assets/main/assets/maintained-action-banner.png)](https://docs.stepsecurity.io/actions/stepsecurity-maintained-actions)
+
 # 🤖 `setup-just` action
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/step-security/setup-just/build.yaml?branch=trunk)](https://github.com/step-security/setup-just/actions/workflows/build.yaml)
