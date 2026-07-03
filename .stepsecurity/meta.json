@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/setup-just",
+   "upstream_full_repo_name": "extractions/setup-just",
+   "action_type": "composite",
+   "last_release": {
+     "tag_name": "v3.0.1",
+     "created_at": "2026-05-07T16:16:36Z",
+     "published_at": "2026-05-08T21:29:37Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
