@@ -59,7 +59,7 @@ runs:
         fi
       shell: bash
 
-    - uses: step-security/setup-crate@863c978f09173ab175d3d03cb2e62d6b17db4587 #v1.4.1
+    - uses: step-security/setup-crate@9500d8774116de545ce5b436a736c19853d9efbe #v2.0.1
       with:
         repo: casey/just
         version: ${{ inputs.just-version }}
